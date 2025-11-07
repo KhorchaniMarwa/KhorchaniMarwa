@@ -25,9 +25,8 @@
 
 ### 🧩 Featured Projects
 
-- 🗺️ **Smart Trip Planner** – A web app that finds the shortest route between cities using **Dijkstra’s algorithm**, integrating maps and transport data.  
-- ⚙️ **Enterprise License Manager** – A **multi-tenant SaaS platform** for managing business licenses and enterprises.  
-- 💬 **Local CP Contest Platform** – A system for hosting **competitive programming** contests on a local network at ENISo.  
+- 🧠 **Prototypical Networking** – An AI-based model that learns to classify new samples with minimal data using **prototypical networks** and **few-shot learning** concepts.  
+- 🌌 **Astro Predict** – A predictive system that uses **machine learning** to analyze astronomical data and generate insights based on celestial patterns. 
 
 ---
 
