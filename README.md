@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Marwa Khorchani
+# 👋 Hi, I'm Marwa Khorchani  
+[![GitHub Stars](https://img.shields.io/github/stars/KhorchaniMarwa/KhorchaniMarwa?style=social)](https://github.com/KhorchaniMarwa/KhorchaniMarwa)
 
 🎓 **Applied Computer Science Engineering Student** at **ENISo**  
 💻 Passionate about **learning new things**
@@ -18,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 **Frontend:** React.js, HTML, CSS, JavaScript  
-**Backend:** PHP,Spring Boot , MySQL  
+**Backend:** PHP, Spring Boot, MySQL  
 **Other Tools:** Linux, Azure, Git, XAMPP  
 
 ---
@@ -42,25 +43,8 @@
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwakhorchani/)  
- 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mrwkhorchani@gmail.com)
 
 ---
 
 ⭐ *“Code. Build. Learn. Repeat.”*
-
-
-<!--
-**KhorchaniMarwa/KhorchaniMarwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
