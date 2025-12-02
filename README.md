@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Marwa Khorchani  
+
 [![GitHub Stars](https://img.shields.io/github/stars/KhorchaniMarwa/KhorchaniMarwa?style=social)](https://github.com/KhorchaniMarwa/KhorchaniMarwa)
 
 🎓 **Applied Computer Science Engineering Student** at **ENISo**  
@@ -10,8 +11,8 @@
 
 - 🤖 Exploring how **AI** can solve real-world problems through intelligent and data-driven solutions.  
 - ☕ Building robust backend systems and tools with **Java**.  
-- 💡 Enthusiastic about learning and applying algorithms — especially for **AI**, **graph processing**, and **optimization**.  
-- 🧩 Active member and organizer at **ACM ENISo**, fostering the local **competitive programming** community.  
+- 💡 Enthusiastic about learning and applying algorithms — especially in **AI**, **graph theory**, and **optimization**.  
+- 🧩 Active member and organizer at **ACM ENISo**, supporting the local **competitive programming** community.  
 - 🎯 Aiming to grow as a **Software Engineer** specializing in **AI and backend development**.
 
 ---
@@ -26,17 +27,17 @@
 
 ### 🧩 Featured Projects
 
-- 🧠 **Prototypical Networking** – An AI-based model that learns to classify new samples with minimal data using **prototypical networks** and **few-shot learning** concepts.  
-- 🌌 **Astro Predict** – A predictive system that uses **machine learning** to analyze astronomical data and generate insights based on celestial patterns. 
+- 🧠 **Prototypical Networking** – AI model for classifying new samples using **few-shot learning** techniques.  
+- 🌌 **Astro Predict** – Machine-learning system that analyzes astronomical data for predictive insights.
 
 ---
 
 ### 🌱 Currently
 
-- 🎯 Looking for an **internship opportunity** to apply and expand my skills in software development  
-- 🧠 Working on **Do It Yourself (DIY)** tech projects to explore new ideas and hands-on learning  
-- 🧩 Organizing workshops and internal contests for **ACM ENISo**  
-- ☁️ Deepening my knowledge in **cloud infrastructure** and **SaaS solutions**
+- 🎯 Searching for an **internship opportunity** in software development  
+- 🧠 Building **DIY tech projects** to explore new tools and ideas  
+- 🧩 Organizing workshops and internal contests at **ACM ENISo**  
+- ☁️ Expanding my knowledge in **cloud infrastructure** and **SaaS architectures**
 
 ---
 
