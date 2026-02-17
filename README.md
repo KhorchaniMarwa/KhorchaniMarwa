@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marwa   
 
-[![GitHub Stars](https://img.shields.io/github/stars/KhorchaniMarwa/KhorchaniMarwa?style=social)](https://github.com/KhorchaniMarwa/KhorchaniMarwa)
+
 
 🎓 **Applied Computer Science Engineering Student** at **ENISo**  
 💻 Passionate about **learning new things**
